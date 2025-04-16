@@ -1,0 +1,8 @@
+wikipedia
+pytest
+pytest-pycodestyle
+requests
+flask
+pymongo
+dnspython
+pillow
